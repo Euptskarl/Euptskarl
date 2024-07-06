@@ -1,7 +1,7 @@
 # Hi there, I'm Shubham 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepository)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Euptskarl.yourrepository)
+![GitHub followers](https://img.shields.io/github/followers/Euptskarl?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
 
 ## 🚀 About Me
@@ -25,8 +25,8 @@ I'm a passionate Fullstack Developer with a love for MERN(Still Learning)...
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Euptskarl&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euptskarl&layout=compact&theme=radical)
 
 
 ## 📫 Connect with Me
