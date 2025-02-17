@@ -22,8 +22,8 @@ I'm a passionate Fullstack Developer with a love for MERN(Still Learning)...
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Euptskarl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euptskarl&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham101&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-101&layout=compact&theme=radical)
 
 
 ## 📫 Connect with Me
